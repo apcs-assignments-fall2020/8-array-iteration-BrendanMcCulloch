@@ -37,7 +37,7 @@ public class MyMain {
                 count +=1; 
             }
         }
-        return true;
+        // return true;
         if (count == factor.length -1){
             return true;
         }
